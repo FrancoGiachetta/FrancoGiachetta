@@ -2,6 +2,8 @@
 
 Currently studying Systems Engineering at the [National University of Technology](https://frba.utn.edu.ar/) in Buenos Aires Argentina. Also a Teaching Assistant on Numerical Analysis at UTN.BA.
 
+I like low-level systems, compilers, distrubited systems. I mostly work with Rust.
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FrancoGiachetta&show_icons=true&theme=gruvbox" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoGiachetta&layout=compact&theme=gruvbox" />
