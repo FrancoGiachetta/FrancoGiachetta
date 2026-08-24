@@ -4,10 +4,7 @@ Currently studying Systems Engineering at the [National University of Technology
 
 I like low-level systems, compilers, distrubited systems. I mostly work with Rust.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrancoGiachetta&show_icons=true&theme=gruvbox" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoGiachetta&layout=compact&theme=gruvbox" />
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=FrancoGiachetta&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api?username=FrancoGiachetta&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=gruvbox)
 
 ## Work
 
